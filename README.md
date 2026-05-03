@@ -1,2 +1,2 @@
 # LangChain_Projects
-A simple ChatBot with conversation history and other sides tasks..
+Collection of AI experiments using LangChain, including RAG pipelines and LLM applications.
